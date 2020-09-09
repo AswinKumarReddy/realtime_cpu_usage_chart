@@ -13,7 +13,7 @@ import {
 } from 'recharts';
 
 //connecting to socket server
-const socket = io('http://localhost:1999',{
+const socket = io('http://localhost:3000',{
     transports : ['websocket','polling']
 });
 
