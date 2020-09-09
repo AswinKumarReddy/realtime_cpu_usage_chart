@@ -1,0 +1,5 @@
+this is an implementation of websockets in react to display the cpu usage in realtime.
+
+Used dependences
+- socket.io
+- Recharts
